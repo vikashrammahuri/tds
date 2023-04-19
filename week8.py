@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1HvgbW7oEw3B6gK-bGFo5Cma4shtNqjsk
 """
 
-!pip install -q streamlit
-
 import streamlit as st
 
 st.title("Find the largest among the 3 numbers")
